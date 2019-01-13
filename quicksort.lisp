@@ -1,7 +1,5 @@
 #!/usr/local/bin/sbcl --script
 
-
-; Xinke Cao, CS 326 Section 1002, Assignment 2
 ; Description: This lisp program will generate a list of random numbers and sort them using Quicksort. 
 ;			   Both the random list and the sorted list will be printed.
 ; Input: users will be able to input the size of the list and the range of the intergers of that list will take
